@@ -1,6 +1,7 @@
 # Streampalv2
 
-![CM-Badge-2](https://github.com/john1234brown/streampalv2/assets/8825800/54816a26-d88b-4fa2-a86c-3ecc1689251f)
+![CM-Badge-2](https://github.com/user-attachments/assets/7d1308a8-fc7d-4d03-bf60-8003a52b65d5)
+
 
 
 - Free Streaming Search Engine Website called StreamPal which doesnt host any files directly on its site.
